@@ -1,0 +1,21 @@
+.mainDiv{
+    height: 100vh;
+    
+}
+
+.carcontainer{
+  
+    display: flex;
+    overflow-x: scroll;
+}
+.card{
+    height: 15rem;
+    width: 50rem;
+    
+    margin-right: 2rem;
+    box-shadow: 1px 1px 3px grey;
+}
+
+.card img{
+    height: 11rem;
+}

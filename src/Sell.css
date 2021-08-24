@@ -1,0 +1,33 @@
+.type{
+    height: 3rem;
+    width: 29rem;
+
+}
+.input{
+    height: 3rem;
+    width: 28.5rem;
+}
+.sellDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.sellDiv img{
+    height: 4rem;
+    width: 8rem;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.succes{
+    width: 12rem;
+    background: green;
+    position: absolute;
+    left: 31rem;
+    top: 14rem;
+    text-align: center;
+    color: red;
+    padding: 5rem;
+}

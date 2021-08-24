@@ -1,0 +1,24 @@
+.Mapcontainer{
+    height: 33rem;
+    width: 33rem;
+    margin-top: 2px;
+    box-shadow: 1px 1px 3px grey;
+    
+}
+.Mapcontainer img{
+    height: 23rem;
+    width: 31rem;
+}
+.mobilediv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
+.info{
+    position: absolute;
+    left: 38rem;
+}

@@ -1,0 +1,39 @@
+.conatiner{
+    
+    height: 3rem;
+    
+    box-shadow: 1px 1px 3px grey;
+    width: 100%;
+
+}
+
+.conatiner img{
+    height: 3rem;
+    object-fit: contain;
+}
+.searchNav{
+    position: absolute;
+    left: 28rem;
+    /* margin-top: 1rem; */
+    color: red;
+    height: 2rem;
+    margin-top: 0.4rem;
+    width: 23rem;
+}
+a.activeLink{
+    color: white;
+    border-bottom: 1px seashell;
+
+}
+.searchbtn{
+    position: absolute;
+    left: 51.5rem;
+    padding: 10px;
+    margin-top: 5px;
+    color: green;
+}
+a.activeLink{
+    color:  #c9344d;
+    border-bottom: 1px seashell;
+
+}
